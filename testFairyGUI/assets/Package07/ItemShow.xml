@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,100" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n3_osii" name="bg" src="osii1" fileName="imgs/1.png" xy="5,5" size="90,90"/>
+    <loader id="n2_osii" name="icon" xy="5,5" size="90,90"/>
+    <image id="n0_osii" name="bgBorder" src="osii6" fileName="imgs/8.png" xy="0,0" size="100,100">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n1_osii" name="title" xy="47,55" pivot="0.5,0.5" size="10,39" fontSize="30" color="#ffff00" align="center" vAlign="middle" text=""/>
+  </displayList>
+  <Button/>
+</component>

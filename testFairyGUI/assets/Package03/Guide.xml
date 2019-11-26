@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600">
+  <controller name="c1" pages="0,,1," selected="0"/>
+  <displayList>
+    <component id="n8_job1" name="n8" src="job14" fileName="Button1.xml" xy="229,243"/>
+    <component id="n0_job1" name="n0" src="job14" fileName="Button1.xml" xy="611,399"/>
+    <graph id="n1_job1" name="n1" xy="-6,-12" size="614,623" group="n7_job1" alpha="0.5" type="rect" lineSize="0" fillColor="#ff000000"/>
+    <graph id="n2_job1" name="n2" xy="608,-12" size="214,403" group="n7_job1" alpha="0.5" type="rect" lineSize="0" fillColor="#ff000000"/>
+    <graph id="n3_job1" name="n3" xy="608,506" size="214,106" group="n7_job1" alpha="0.5" type="rect" lineSize="0" fillColor="#ff000000"/>
+    <graph id="n4_job1" name="n4" xy="705,391" size="117,115" group="n7_job1" alpha="0.5" type="rect" lineSize="0" fillColor="#ff000000"/>
+    <movieclip id="n5_job1" name="n5" src="job12" fileName="quan.jta" xy="597,390" group="n7_job1"/>
+    <group id="n7_job1" name="n7" xy="-6,-12" size="829,625" collapsed="true"/>
+    <movieclip id="n6_job1" name="n6" src="job13" fileName="rswcfhd.jta" xy="-114,65">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearXY controller="c1" pages="0" values="-114,65" default="527,426" tween="true"/>
+    </movieclip>
+  </displayList>
+</component>

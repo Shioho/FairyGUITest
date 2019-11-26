@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600">
+  <displayList>
+    <component id="n0_osii" name="btnBag" src="osiik" fileName="BagBtn.xml" xy="673,470"/>
+    <component id="n1_osii" name="btnItemShow" src="osiil" fileName="ItemShow.xml" xy="35,470"/>
+  </displayList>
+</component>

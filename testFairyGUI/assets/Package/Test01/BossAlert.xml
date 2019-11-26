@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600">
+  <displayList>
+    <image id="n0_job1" name="n0" src="job1s" fileName="2.png" xy="-271,91"/>
+    <image id="n1_job1" name="n1" src="job1t" fileName="3.png" xy="804,297"/>
+  </displayList>
+  <transition name="AlertAppear">
+    <item time="0" type="XY" target="n0_job1" tween="true" startValue="-271,91.09" endValue="265,91.09" duration="12"/>
+    <item time="0" type="XY" target="n1_job1" tween="true" startValue="804,297.24" endValue="240,297" duration="12"/>
+    <item time="36" type="XY" target="n0_job1" tween="true" startValue="265,91.09" endValue="804,91" duration="12"/>
+    <item time="36" type="XY" target="n1_job1" tween="true" startValue="240,297" endValue="-398,297" duration="12"/>
+  </transition>
+</component>

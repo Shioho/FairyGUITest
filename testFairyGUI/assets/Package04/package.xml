@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="b5alfnax" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="osii0" name="LoopList.xml" path="/" exported="true"/>
+    <image id="osii1" name="n1.png" path="/" exported="true"/>
+    <image id="osii2" name="n2.png" path="/" exported="true"/>
+    <image id="osii3" name="n3.png" path="/" exported="true"/>
+    <image id="osii4" name="n4.png" path="/" exported="true"/>
+    <image id="osii5" name="n5.png" path="/" exported="true"/>
+    <component id="osii6" name="Chapter.xml" path="/"/>
+  </resources>
+  <publish name="Package04"/>
+</packageDescription>

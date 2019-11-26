@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600">
+  <displayList>
+    <component id="n0_osii" name="n0" src="osii9" fileName="Button1.xml" xy="30,23"/>
+  </displayList>
+</component>

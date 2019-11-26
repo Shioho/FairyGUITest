@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600">
+  <displayList>
+    <image id="n1_job1" name="n1" src="job12h" fileName="Test02/red.png" xy="-465,467" group="n8_job1"/>
+    <image id="n0_job1" name="n0" src="job12g" fileName="Test02/power.png" xy="-462,469" group="n8_job1"/>
+    <text id="n2_job1" name="n2" xy="-305,476" size="198,54" group="n8_job1" font="ui://adesqupjjob12k" fontSize="25" align="center" vAlign="middle" letterSpacing="-14" text="10000"/>
+    <movieclip id="n3_job1" name="n3" src="job12j" fileName="Test02/fire.jta" xy="-121,420" pivot="0.5,0.8" size="64,128" group="n8_job1"/>
+    <text id="n7_job1" name="n7" xy="-302,430" size="120,40" group="n8_job1" font="ui://adesqupjjob12l" fontSize="25" align="center" vAlign="middle" letterSpacing="-6" text="+3032"/>
+    <group id="n8_job1" name="n8" xy="-465,420" size="462,128" advanced="true"/>
+  </displayList>
+  <transition name="t0"/>
+  <transition name="t1">
+    <item time="0" type="Alpha" target="n3_job1" value="0"/>
+    <item time="0" type="Alpha" target="n8_job1" value="1"/>
+    <item time="0" type="Size" target="n3_job1" value="0,0"/>
+    <item time="0" type="XY" target="n8_job1" tween="true" startValue="-465,420" endValue="3,420" duration="6" label2="AddValue"/>
+    <item time="6" type="Alpha" target="n3_job1" value="1"/>
+    <item time="6" type="Size" target="n3_job1" tween="true" startValue="0,0" endValue="64,128" duration="12"/>
+    <item time="6" type="XY" target="n8_job1" label="AddValue" tween="true" startValue="3,420" endValue="219,420" duration="12"/>
+    <item time="18" type="Alpha" target="n8_job1" tween="true" startValue="1" endValue="1" duration="6"/>
+    <item time="18" type="XY" target="n8_job1" tween="true" startValue="219,420" endValue="219,420" duration="6"/>
+    <item time="24" type="Alpha" target="n8_job1" tween="true" startValue="1" endValue="0" duration="12"/>
+    <item time="24" type="XY" target="n8_job1" tween="true" startValue="219,420" endValue="84,296.95" duration="12"/>
+  </transition>
+</component>

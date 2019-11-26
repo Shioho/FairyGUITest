@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="be8axooy" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="osii0" name="b5_png.png" path="/"/>
+    <image id="osii1" name="b6_png.png" path="/"/>
+    <image id="osii2" name="b7(2)_png.png" path="/"/>
+    <image id="osii3" name="caiji.png" path="/"/>
+    <image id="osii4" name="caiji2.png" path="/"/>
+    <image id="osii5" name="k20.png" path="/"/>
+    <movieclip id="osii6" name="pet.jta" path="/"/>
+    <component id="osii7" name="progressbar.xml" path="/" exported="true"/>
+    <component id="osii8" name="bar.xml" path="/"/>
+    <component id="osii9" name="ComboBox1_item.xml" path="/" exported="true"/>
+    <component id="osiia" name="ComboBox1_popup.xml" path="/" exported="true"/>
+    <component id="osiib" name="ComboBox1.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="Package05"/>
+</packageDescription>

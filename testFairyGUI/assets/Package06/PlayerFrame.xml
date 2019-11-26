@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="490,390">
+  <displayList>
+    <image id="n0_osii" name="n0" src="osii1" fileName="5.png" xy="0,0" size="490,390"/>
+    <image id="n1_osii" name="n1" src="osii6" fileName="13.png" xy="31,35" size="418,352"/>
+    <graph id="n2_osii" name="dragArea" xy="41,31" size="402,342"/>
+    <component id="n3_osii" name="closeButton" src="osiic" fileName="closeButton.xml" xy="433,-1" size="52,67"/>
+  </displayList>
+</component>

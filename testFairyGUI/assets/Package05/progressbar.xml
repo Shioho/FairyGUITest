@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600">
+  <displayList>
+    <component id="n0_osii" name="n0" src="osii8" fileName="bar.xml" xy="248,400">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <component id="n1_osii" name="n1" src="osiib" fileName="ComboBox1.xml" xy="338,239">
+      <ComboBox title="选择时间" visibleItemCount="10" direction="down">
+        <item title="3S" value="3" icon="ui://be8axooyosii9"/>
+        <item title="10S" value="10" icon="ui://be8axooyosii9"/>
+      </ComboBox>
+    </component>
+  </displayList>
+</component>

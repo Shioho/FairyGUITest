@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="277,32" extention="ProgressBar">
+  <displayList>
+    <image id="n0_osii" name="n0" src="osii3" fileName="caiji.png" xy="0,0" size="277,32">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_osii" name="bar" src="osii4" fileName="caiji2.png" xy="24,-1" size="225,30"/>
+    <text id="n2_osii" name="title" xy="23,2" size="227,22" fontSize="12" align="center" vAlign="middle" autoSize="none" text="">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <movieclip id="n3_osii" name="n3" src="osii6" fileName="pet.jta" xy="206,-37">
+      <relation target="n1_osii" sidePair="right-right"/>
+    </movieclip>
+  </displayList>
+  <ProgressBar/>
+</component>

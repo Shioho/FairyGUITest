@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="bud8l476" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="osii0" name="0.png" path="/imgs/"/>
+    <image id="osii1" name="1.png" path="/imgs/"/>
+    <image id="osii2" name="2.png" path="/imgs/"/>
+    <image id="osii3" name="3.png" path="/imgs/"/>
+    <image id="osii4" name="4.png" path="/imgs/"/>
+    <image id="osii5" name="5.png" path="/imgs/"/>
+    <image id="osii6" name="8.png" path="/imgs/"/>
+    <image id="osii7" name="btnimage.png" path="/imgs/"/>
+    <image id="osii8" name="i0.png" path="/imgs/" exported="true"/>
+    <image id="osii9" name="i1.png" path="/imgs/" exported="true"/>
+    <image id="osiia" name="i2.png" path="/imgs/" exported="true"/>
+    <image id="osiib" name="i3.png" path="/imgs/" exported="true"/>
+    <image id="osiic" name="i4.png" path="/imgs/" exported="true"/>
+    <image id="osiid" name="i5.png" path="/imgs/" exported="true"/>
+    <image id="osiie" name="i6.png" path="/imgs/" exported="true"/>
+    <image id="osiif" name="i7.png" path="/imgs/" exported="true"/>
+    <image id="osiig" name="i8.png" path="/imgs/" exported="true"/>
+    <image id="osiih" name="i9.png" path="/imgs/" exported="true"/>
+    <movieclip id="osiii" name="quan.jta" path="/"/>
+    <component id="osiij" name="Main.xml" path="/" exported="true"/>
+    <component id="osiik" name="BagBtn.xml" path="/"/>
+    <component id="osiil" name="ItemShow.xml" path="/"/>
+    <component id="osiim" name="windowFrame.xml" path="/"/>
+    <component id="osiin" name="btnClose.xml" path="/"/>
+    <component id="osiip" name="Item.xml" path="/"/>
+    <component id="osiiq" name="BagDialog.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="Package07"/>
+</packageDescription>

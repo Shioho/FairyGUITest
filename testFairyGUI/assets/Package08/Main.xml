@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600">
+  <displayList>
+    <image id="n9_noyl" name="thumb" src="osii1" fileName="1.png" xy="75,367" pivot="0.5,0.5" visible="false"/>
+    <image id="n5_osii" name="center" src="osii0" fileName="0.png" xy="126,409" pivot="0.5,0.5"/>
+    <graph id="n4_osii" name="touchArea" xy="37,321" pivot="0.5,0.5" size="254,254" type="rect" lineColor="#0066ff00" fillColor="#00ffffff">
+      <relation target="" sidePair="bottom-bottom"/>
+    </graph>
+    <text id="n7_osii" name="n7" xy="496,67" size="110,39" fontSize="30" text="Degree:"/>
+    <text id="n8_osii" name="degreeValue" xy="605,69" size="10,39" fontSize="30" text=""/>
+  </displayList>
+</component>

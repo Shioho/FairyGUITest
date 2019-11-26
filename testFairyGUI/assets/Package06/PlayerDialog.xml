@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="490,390" pivot="0.5,0.5">
+  <displayList>
+    <component id="n0_osii" name="frame" src="osiib" fileName="PlayerFrame.xml" xy="0,0"/>
+    <graph id="n1_osii" name="n1" xy="115,41" size="252,326"/>
+    <component id="n2_osii" name="n2" src="osiid" fileName="ButtonLeft.xml" xy="80,280"/>
+    <component id="n3_osii" name="n3" src="osiie" fileName="ButtonRight.xml" xy="368,280"/>
+  </displayList>
+  <relation target="" sidePair=""/>
+</component>

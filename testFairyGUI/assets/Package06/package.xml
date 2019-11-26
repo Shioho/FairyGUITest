@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="bxgiz29h" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="osii0" name="Main.xml" path="/" exported="true"/>
+    <image id="osii1" name="5.png" path="/" scale="9grid" scale9grid="154,97,308,194"/>
+    <image id="osii2" name="9.png" path="/"/>
+    <image id="osii3" name="10.png" path="/"/>
+    <image id="osii4" name="11.png" path="/"/>
+    <image id="osii5" name="12.png" path="/"/>
+    <image id="osii6" name="13.png" path="/"/>
+    <image id="osii7" name="r3.png" path="/"/>
+    <image id="osii8" name="0.png" path="/"/>
+    <component id="osii9" name="Button1.xml" path="/"/>
+    <component id="osiia" name="PlayerDialog.xml" path="/" exported="true"/>
+    <component id="osiib" name="PlayerFrame.xml" path="/" exported="true"/>
+    <component id="osiic" name="closeButton.xml" path="/"/>
+    <component id="osiid" name="ButtonLeft.xml" path="/"/>
+    <component id="osiie" name="ButtonRight.xml" path="/"/>
+  </resources>
+  <publish name="Package06"/>
+</packageDescription>

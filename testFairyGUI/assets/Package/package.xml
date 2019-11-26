@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="adesqupj" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="job1r" name="ClickButton.xml" path="/Test01/" exported="true"/>
+    <image id="job1s" name="2.png" path="/Test01/"/>
+    <image id="job1t" name="3.png" path="/Test01/"/>
+    <image id="job1u" name="b4.png" path="/Test01/"/>
+    <image id="job1v" name="b5.png" path="/Test01/"/>
+    <sound id="job1w" name="BUZZ4.wav" path="/Test01/" exported="true"/>
+    <component id="job1x" name="BossBtn.xml" path="/Test01/"/>
+    <component id="job1y" name="BossAlert.xml" path="/Test01/" exported="true"/>
+    <image id="job1z" name="100014.png" path="/Test02/Fire/"/>
+    <image id="job110" name="100015.png" path="/Test02/Fire/"/>
+    <image id="job111" name="100016.png" path="/Test02/Fire/"/>
+    <image id="job112" name="100017.png" path="/Test02/Fire/"/>
+    <image id="job113" name="100018.png" path="/Test02/Fire/"/>
+    <image id="job114" name="100019.png" path="/Test02/Fire/"/>
+    <image id="job115" name="100020.png" path="/Test02/Fire/"/>
+    <image id="job116" name="100021.png" path="/Test02/Fire/"/>
+    <image id="job117" name="100022.png" path="/Test02/Fire/"/>
+    <image id="job118" name="100023.png" path="/Test02/Fire/"/>
+    <image id="job119" name="100024.png" path="/Test02/Fire/"/>
+    <image id="job11a" name="100025.png" path="/Test02/Fire/"/>
+    <image id="job11b" name="100026.png" path="/Test02/Fire/"/>
+    <image id="job11c" name="100027.png" path="/Test02/Fire/"/>
+    <image id="job11d" name="100028.png" path="/Test02/Fire/"/>
+    <image id="job11e" name="100029.png" path="/Test02/Fire/"/>
+    <image id="job11f" name="100030.png" path="/Test02/Fire/"/>
+    <image id="job11g" name="100031.png" path="/Test02/Fire/"/>
+    <image id="job11h" name="100000.png" path="/Test02/Fire/"/>
+    <image id="job11i" name="100001.png" path="/Test02/Fire/"/>
+    <image id="job11j" name="100002.png" path="/Test02/Fire/"/>
+    <image id="job11k" name="100003.png" path="/Test02/Fire/"/>
+    <image id="job11l" name="100004.png" path="/Test02/Fire/"/>
+    <image id="job11m" name="100005.png" path="/Test02/Fire/"/>
+    <image id="job11n" name="100006.png" path="/Test02/Fire/"/>
+    <image id="job11o" name="100007.png" path="/Test02/Fire/"/>
+    <image id="job11p" name="100008.png" path="/Test02/Fire/"/>
+    <image id="job11q" name="100009.png" path="/Test02/Fire/"/>
+    <image id="job11r" name="100010.png" path="/Test02/Fire/"/>
+    <image id="job11s" name="100011.png" path="/Test02/Fire/"/>
+    <image id="job11t" name="100012.png" path="/Test02/Fire/"/>
+    <image id="job11u" name="100013.png" path="/Test02/Fire/"/>
+    <image id="job11v" name="h0.png" path="/Test02/AttackFont/"/>
+    <image id="job11w" name="h1.png" path="/Test02/AttackFont/"/>
+    <image id="job11x" name="h2.png" path="/Test02/AttackFont/"/>
+    <image id="job11y" name="h3.png" path="/Test02/AttackFont/"/>
+    <image id="job11z" name="h4.png" path="/Test02/AttackFont/"/>
+    <image id="job120" name="h5.png" path="/Test02/AttackFont/"/>
+    <image id="job121" name="h6.png" path="/Test02/AttackFont/"/>
+    <image id="job122" name="h7.png" path="/Test02/AttackFont/"/>
+    <image id="job123" name="h8.png" path="/Test02/AttackFont/"/>
+    <image id="job124" name="h9.png" path="/Test02/AttackFont/"/>
+    <image id="job125" name="0000_+.png" path="/Test02/AddFont/"/>
+    <image id="job126" name="0001_9.png" path="/Test02/AddFont/"/>
+    <image id="job127" name="0002_8.png" path="/Test02/AddFont/"/>
+    <image id="job128" name="0003_7.png" path="/Test02/AddFont/"/>
+    <image id="job129" name="0004_6.png" path="/Test02/AddFont/"/>
+    <image id="job12a" name="0005_5.png" path="/Test02/AddFont/"/>
+    <image id="job12b" name="0006_4.png" path="/Test02/AddFont/"/>
+    <image id="job12c" name="0007_3.png" path="/Test02/AddFont/"/>
+    <image id="job12d" name="0008_2.png" path="/Test02/AddFont/"/>
+    <image id="job12e" name="0009_1.png" path="/Test02/AddFont/"/>
+    <image id="job12f" name="0010_0.png" path="/Test02/AddFont/"/>
+    <image id="job12g" name="power.png" path="/Test02/"/>
+    <image id="job12h" name="red.png" path="/Test02/"/>
+    <component id="job12i" name="AttackValue.xml" path="/Test02/" exported="true"/>
+    <movieclip id="job12j" name="fire.jta" path="/Test02/"/>
+    <font id="job12k" name="AttackFont.fnt" path="/Test02/" exported="true"/>
+    <font id="job12l" name="AddFont.fnt" path="/Test02/" exported="true"/>
+    <component id="job12m" name="BtnClick.xml" path="/Test02/" exported="true"/>
+    <component id="job12n" name="BossBtn.xml" path="/Test02/"/>
+  </resources>
+  <publish name="Package"/>
+</packageDescription>

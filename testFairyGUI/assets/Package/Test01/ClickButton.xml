@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600">
+  <displayList>
+    <component id="n0_job1" name="Btn" src="job1x" fileName="BossBtn.xml" xy="318,265" group="n2_job1">
+      <Button sound="ui://adesqupjjob1w"/>
+    </component>
+    <text id="n1_job1" name="Info" xy="357,280" size="86,39" group="n2_job1" fontSize="30" color="#ffff00" align="center" vAlign="middle" text="BOSS">
+      <relation target="n0_job1" sidePair="center-center,middle-middle"/>
+    </text>
+    <group id="n2_job1" name="BossBtnGroup" xy="318,265" size="163,69" advanced="true"/>
+  </displayList>
+</component>

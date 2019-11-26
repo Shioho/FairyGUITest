@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="bb4d4pj6" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="osii0" name="0.png" path="/"/>
+    <image id="osii1" name="1.png" path="/"/>
+    <component id="osii2" name="Main.xml" path="/" exported="true"/>
+    <component id="osii3" name="btnThumb.xml" path="/"/>
+  </resources>
+  <publish name="Package08"/>
+</packageDescription>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="620,390">
+  <displayList>
+    <component id="n0_osii" name="frame" src="osiim" fileName="windowFrame.xml" xy="0,0"/>
+    <list id="n2_osii" name="list" xy="60,56" size="487,300" layout="flow_hz" overflow="scroll" lineGap="5" colGap="20" defaultItem="ui://bud8l476osiip" align="center">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>
